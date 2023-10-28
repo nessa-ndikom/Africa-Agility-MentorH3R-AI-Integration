@@ -1,2 +1,2 @@
-# Africa-Agility-MentorH3R-Mood-Tracker-Product-Feature
-A mood tracking and recommendation system feature for the MentorH3R product on nutrition and wellness
+# Africa-Agility-AI-Integration
+A repository for the AI and Data Science tracks' contribution to the Africa Agility MentorH3R project on nutrition and wellness
